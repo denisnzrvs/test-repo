@@ -1,1 +1,1 @@
-This will be a big red button!
+A big red button!
